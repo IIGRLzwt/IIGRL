@@ -7,7 +7,7 @@
 The framework of our proposed Intra-Inter Graph Representation Learning (IIGRL) for protein-protein binding sites prediction. The upper is intra-graph representation learning, which is designed to improve node/residue representation within protein graph. The bottom is inter-graph representation learning, exploring to propagate information cross protein to further enrich node representation.
 
 # Description
-For the intra-graph learning, we propose to maximize the mutual information between the local node representation and global graph summary, thus encouraging the global information encoded into node representation in the protein graph. For the inter-graph learning, we explore fusing the two separate ligand and receptor graphs as a whole graph, learn the affinity between residues/nodes of different proteins, and propagate the information to each other, which effectively captures inter-protein information and further enhances the discrimination of the node pairs.
+For the intra-graph learning, we propose to maximize the mutual information between the local node representation and global graph summary, thus encouraging the global information encoded into node representation in the protein graph. For the inter-graph learning, we explore fusing the two separate ligand and receptor graphs as a whole graph, learn the affinity between residues/nodes of different proteins, and propagate the information to each other, which effectively captures inter-protein information and further enhances the discrimination of the node pairs.
 
 # Requirements
 ```
