@@ -1,4 +1,4 @@
-# IIGRL
+<center> # Intra-Inter Graph Representation Learning for Protein-Protein Binding Sites Prediction </center>center
 ![image](https://github.com/IIGRLzwt/IIGRL/assets/97393672/b5189f7a-f608-4bda-b567-47ac444d1849)
 
 The framework of our proposed Intra-Inter Graph Representation Learning (IIGRL) for protein-protein binding sites
